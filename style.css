@@ -12,8 +12,8 @@ h1 {
   left: 30%;
   transform: translate(-50%, -50%);
   text-align: left;
-  max-width: 40rem;
-  font-size: clamp(2.5rem, 6vw, 5rem);
+  max-width: 50rem;
+  font-size: clamp(2.5rem, 6vw, 6rem);
   font-weight: 700;
   color: #ffffff;
 }
