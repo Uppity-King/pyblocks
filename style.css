@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Asap');
 
 body {
-  background-color: #001c38
+  background-color: #00424d
 }
 
 h1 {
@@ -15,7 +15,7 @@ h1 {
   max-width: 40rem;
   font-size: clamp(2.5rem, 6vw, 5rem);
   font-weight: 700;
-  color: #a8d4ff;
+  color: #ffffff;
 }
 
 h2 {
