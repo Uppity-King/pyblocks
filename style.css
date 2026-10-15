@@ -45,13 +45,13 @@ p {
   padding: 0.6em 1.2em;
   border-radius: 0.5rem;
   background-color: #ede6df;
-  color: #124d54;
+  color: #094044;
   text-decoration: none;
   transition: background-color 0.2s ease;
 }
 
 .btn:hover {
-  background-color: #ede6df;
+  background-color: #ededed;
 }
 
 a {
